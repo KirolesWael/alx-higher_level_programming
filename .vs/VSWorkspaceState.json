@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\0x05-python-exceptions"
+    "\\0x04-python-more_data_structures",
+    "\\0x05-python-exceptions",
+    "\\0x06-python-classes"
   ],
-  "SelectedNode": "\\0x05-python-exceptions",
+  "SelectedNode": "\\0x06-python-classes",
   "PreviewInSolutionExplorer": false
 }
