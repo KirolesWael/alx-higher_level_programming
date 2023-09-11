@@ -6,8 +6,9 @@
     "\\0x06-python-classes",
     "\\0x07-python-test_driven_development",
     "\\0x07-python-test_driven_development\\tests",
-    "\\0x09-python-everything_is_object"
+    "\\0x09-python-everything_is_object",
+    "\\0x0A-python-inheritance"
   ],
-  "SelectedNode": "\\0x07-python-test_driven_development\\tests\\0-add_integer.txt",
+  "SelectedNode": "\\0x02-python-import_modules",
   "PreviewInSolutionExplorer": false
 }
