@@ -7,8 +7,9 @@
     "\\0x07-python-test_driven_development",
     "\\0x07-python-test_driven_development\\tests",
     "\\0x09-python-everything_is_object",
-    "\\0x0A-python-inheritance"
+    "\\0x0A-python-inheritance",
+    "\\0x0B-python-input_output"
   ],
-  "SelectedNode": "\\0x02-python-import_modules",
+  "SelectedNode": "\\0x0B-python-input_output",
   "PreviewInSolutionExplorer": false
 }
