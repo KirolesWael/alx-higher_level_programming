@@ -1,10 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\0x07-python-test_driven_development\\tests",
-    "\\0x0C-python-almost_a_circle\\tests",
-    "\\0x0D-SQL_introduction"
+    "\\0x0D-SQL_introduction",
+    "\\0x0E-SQL_more_queries"
   ],
-  "SelectedNode": "\\0x0D-SQL_introduction\\103-max_state.sql",
+  "SelectedNode": "\\0x0E-SQL_more_queries\\103-rating_genres.sql",
   "PreviewInSolutionExplorer": false
 }
