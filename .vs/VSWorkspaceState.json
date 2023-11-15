@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\0x0D-SQL_introduction",
-    "\\0x0E-SQL_more_queries"
+    "\\0x13-javascript_objects_scopes_closures"
   ],
-  "SelectedNode": "\\0x0E-SQL_more_queries\\103-rating_genres.sql",
+  "SelectedNode": "\\0x13-javascript_objects_scopes_closures\\102-concat.js",
   "PreviewInSolutionExplorer": false
 }
